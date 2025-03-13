@@ -9,6 +9,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([your-linkedin-profile](https://www.linkedin.com/in/nikunj-ranjan-668696177/))
 
 ---
+![Coding GIF]([https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://raw.githubusercontent.com/MrEvrim/MrEvrim/output/github-contribution-grid-snake-dark.svg))
+---
 
 ### **GitHub Stats**
 <p align="center">
