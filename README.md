@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nikunj</h1>
 <h3 align="center">Game Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20views&color=0e75b6&style=flat" alt="your-github-username" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Frost2204&label=Profile%20views&color=0e75b6&style=flat" alt="your-github-username" /> </p>
 
 - 📫 How to reach me **nikunjranjan2204@gmail.com**
 
