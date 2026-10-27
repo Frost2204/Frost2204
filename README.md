@@ -10,7 +10,7 @@
 [![My Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)](https://nikunjranjan.vercel.app/)
 
 ---
-<img src="https://raw.githubusercontent.com/MrEvrim/MrEvrim/output/github-contribution-grid-snake-dark.svg" width="700px">
+<img src="https://raw.githubusercontent.com/Frost2204/React-portfolio/ef5b2c0fca4d291053a08cbfe5ed722793210e23/public/Artificial%20intelligence%20digital%20technology.svg" width="700px">
 ---
 
 ### **Languages and Tools:**
