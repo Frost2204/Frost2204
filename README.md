@@ -1,109 +1,115 @@
 # Hi, I'm Nikunj Ranjan 👋
 
-### Unity Game Developer | C# | Gameplay Programming | Mobile & WebGL
+### Unity Game Developer | C# | Gameplay Programming | Mobile & WebGL Games
 
-I'm a Unity Game Developer with experience building and shipping casual Android and WebGL games. I enjoy developing gameplay systems, creating interactive experiences, and optimizing games for performance across devices.
+I'm a Unity Game Developer with experience building and shipping casual Android and WebGL games. I work on gameplay systems, player controllers, game UI, mobile optimization, and interactive experiences.
 
-Currently working as a **Unity Game Developer at MyHashstash**, where I work on gameplay programming, UI systems, mobile optimization, and interactive experiences.
+Currently working as a Unity Game Developer at **MyHashstash**.
 
-🌐 [Portfolio](https://nikunjranjan.vercel.app/) · 💼 [LinkedIn](https://www.linkedin.com/in/nikunj-ranjan-668696177/) · 📧 [Email](mailto\:nikunjranjan2204@gmail.com)
+[Portfolio](https://nikunjranjan.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/nikunj-ranjan-668696177/) · [Email](mailto\:nikunjranjan2204@gmail.com)
 
 ---
 
 ## 🎮 What I Do
 
 - Develop 2D and 3D games using Unity and C#.
-- Build gameplay mechanics and reusable systems.
-- Create player controllers, vehicle physics, combat and traversal mechanics.
-- Optimize games for mobile performance, memory usage and loading times.
-- Develop game UI, progression systems, economies and reward systems.
-- Build Unity WebGL and browser-based AR experiences.
+- Build reusable gameplay systems and mechanics.
+- Develop player controllers, vehicle physics, shooting systems, and traversal mechanics.
+- Optimize mobile games for performance, memory usage, and loading times.
+- Build responsive game UI, progression systems, rewards, and in-game economies.
+- Develop WebGL and browser-based AR experiences.
 
 ## 🚀 Featured Projects
 
 ### Parkour System
 
-**Unity · C# · Physics · Animator · ScriptableObjects**
+A modular 3D parkour and obstacle interaction system built in Unity.
 
-A modular 3D parkour system featuring obstacle detection, configurable parkour actions, obstacle-height validation and animation-driven character movement.
+- Configurable parkour actions using ScriptableObjects.
+- Obstacle detection using raycasts.
+- Animation-driven movement and target matching.
 
-[Repository](https://github.com/Frost2204/Parkour-System) · [Gameplay Video](https://youtu.be/ro-JPLQKGxo)
+[GitHub Repository](https://github.com/Frost2204/Parkour-System) · [YouTube Demo](https://youtu.be/ro-JPLQKGxo)
 
 
 
 ### Car Controller
 
-**Unity · C# · Wheel Colliders**
+A physics-based vehicle controller built with Unity Wheel Colliders.
 
-A physics-based vehicle controller built using Unity Wheel Colliders, focusing on vehicle movement and handling.
-
-[Repository](https://github.com/Frost2204/Car-Controller)
+[GitHub Repository](https://github.com/Frost2204/Car-Controller)
 
 
 
 ### Shooting Game Mechanics
 
-**Unreal Engine · Blueprints**
+A weapon mechanics project developed using Unreal Engine Blueprints.
 
-A shooting mechanics project featuring weapon selection, per-weapon statistics, ammunition types, fire rates, recoil and aiming.
+- Weapon selection and per-weapon statistics.
+- Ammunition, fire rates, and recoil.
+- Aiming and shooting mechanics.
 
-[Repository](https://github.com/Frost2204/Shooting-Game-Mechanics)
+[GitHub Repository](https://github.com/Frost2204/Shooting-Game-Mechanics)
 
 
 
 ### More Projects
 
-- **WordVenture** — Unity word puzzle game with themed levels, progression, in-game currencies and rewarded ads.
-- **Breaking Blocks** — Unity block-breaking game featuring custom shaders, particles and increasing difficulty.
-- **Mech Invasion** — Tower defense game project featuring additional weapons and varied environments.
-- **Aim Down** — Unity flashlight survival game featuring drones and turrets with distinct attack behaviors.
+- **WordVenture** – Unity word puzzle game with progression, currencies, rewards, and Firebase integration.
+- **Breaking Blocks** – Block-breaking game featuring custom shaders, particles, and progressive difficulty.
+- **Mech Invasion** – Tower defense game with additional weapons and varied environments.
+- **Aim Down** – Flashlight-based survival game featuring drones and turrets.
 
 ## 💼 Professional Experience
 
 **Unity Game Developer — MyHashstash**
+May 2025 – Present
 
-- Built and published multiple casual Unity games on Google Play.
-- Reduced initial loading time of a 3D bike configurator showroom by **45%** using Unity Addressables.
-- Improved mobile performance using object pooling, draw call batching and memory optimization.
-- Developed responsive game interfaces, HUDs, shop screens and reward systems.
-- Shipped Unity WebGL builds optimized for browser performance.
+- Built and published multiple casual Unity games for Android.
+- Reduced initial loading time of a 3D bike configurator showroom by 45% using Unity Addressables.
+- Improved prototyping and debugging workflows using AI-assisted development.
+- Optimized mobile performance using object pooling, draw call batching, and memory cleanup.
+- Developed responsive UI systems and shipped optimized Unity WebGL builds.
 - Developed browser-based AR experiences using Three.js and 8th Wall WebXR.
-- Trained a custom YOLO model on 10+ categories with **92% accuracy**, optimized for real-time browser inference using TensorFlow\.js.
+- Trained a YOLO model across 10+ categories, achieving 92% accuracy, and optimized browser inference using TensorFlow\.js.
 
 ## 🛠️ Tech Stack
 
-**Game Engines**
+**Game Engines:**
+Unity, Unreal Engine
 
-\<p>
-&#x20; \<img src="[https://skillicons.dev/icons?i=unity,unreal](https://skillicons.dev/icons?i=unity,unreal)" />
-\</p>
+**Programming Languages:**
+C#, JavaScript, HTML, CSS
 
-**Programming Languages**
+**Unity Development:**
+Gameplay Programming, ScriptableObjects, Addressables, Animator, Physics, Wheel Colliders, Object Pooling, Custom Shaders, Particle Systems, TextMeshPro, UGUI
 
-\<p>
-&#x20; \<img src="[https://skillicons.dev/icons?i=cs,js,html,css](https://skillicons.dev/icons?i=cs,js,html,css)" />
-\</p>
+**Game Development:**
+Player Controllers, Vehicle Controllers, Shooting Systems, Parkour Mechanics, Level Progression, Game Economy, Mobile Optimization
 
-**Tools & Technologies**
+**Other Tools & Technologies:**
+Git, GitHub, Blender, Firebase, Three.js, 8th Wall WebXR, YOLO, TensorFlow\.js
 
-\<p>
-&#x20; \<img src="[https://skillicons.dev/icons?i=git,github,blender,firebase,androidstudio](https://skillicons.dev/icons?i=git,github,blender,firebase,androidstudio)" />
-\</p>
-
-**Unity:** ScriptableObjects, Addressables, Animator, Physics, Wheel Colliders, Object Pooling, Unity Profiler, TextMeshPro, UGUI, Custom Shaders
-
-**Other Technologies:** Three.js, 8th Wall WebXR, YOLO, TensorFlow\.js
+---
 
 ## 📊 GitHub Statistics
 
-\<p align="center">   \<img src="[https://github-readme-stats.vercel.app/api?username=Frost2204&show_icons=true&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api?username=Frost2204\&show_icons=true\&theme=tokyonight\&hide_border=true)" height="165" />   \<img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=Frost2204&layout=compact&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=Frost2204\&layout=compact\&theme=tokyonight\&hide_border=true)" height="165" /> \</p>
+### Most Used Languages
 
-\<p align="center">   \<img src="[https://github-readme-streak-stats.herokuapp.com/?user=Frost2204&theme=tokyonight&hide_border=true](https://github-readme-streak-stats.herokuapp.com/?user=Frost2204\&theme=tokyonight\&hide_border=true)" /> \</p>
+\<p align="center">   \<img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=Frost2204&layout=compact&theme=dark](https://github-readme-stats.vercel.app/api/top-langs/?username=Frost2204\&layout=compact\&theme=dark)" /> \</p>
+
+---
+
+\<p align="center">
+&#x20; \<img src="[https://github-readme-streak-stats.herokuapp.com/?user=Frost2204&theme=dark](https://github-readme-streak-stats.herokuapp.com/?user=Frost2204\&theme=dark)" />
+&#x20; \<img src="[https://github-readme-stats.vercel.app/api?username=Frost2204&show_icons=true&theme=dark](https://github-readme-stats.vercel.app/api?username=Frost2204\&show_icons=true\&theme=dark)" />
+\</p>
 
 ---
 
 ## 🤝 Let's Connect
 
-I'm interested in opportunities to work with game studios building and publishing their own games.
+- **Portfolio:** [https://nikunjranjan.vercel.app/](https://nikunjranjan.vercel.app/)
+- **LinkedIn:** [https://www.linkedin.com/in/nikunj-ranjan-668696177/](https://www.linkedin.com/in/nikunj-ranjan-668696177/)
+- **Email:** [nikunjranjan2204@gmail.com](mailto\:nikunjranjan2204@gmail.com)
 
-🌐 [Portfolio](https://nikunjranjan.vercel.app/) · 💼 [LinkedIn](https://www.linkedin.com/in/nikunj-ranjan-668696177/) · 💻 [GitHub](https://github.com/Frost2204)
