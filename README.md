@@ -2,83 +2,97 @@
 
 ### Unity Game Developer | C# | Gameplay Programming | Mobile & WebGL
 
-I build gameplay systems and interactive experiences using Unity and C#. I have experience shipping casual Android and WebGL games, developing reusable gameplay mechanics, and optimizing performance for mobile devices.
+I'm a Unity Game Developer with experience building and shipping casual Android and WebGL games. I enjoy developing gameplay systems, creating interactive experiences, and optimizing games for performance across devices.
 
-Currently working as a **Unity Game Developer at MyHashstash**, building games and interactive experiences.
+Currently working as a **Unity Game Developer at MyHashstash**, where I work on gameplay programming, UI systems, mobile optimization, and interactive experiences.
 
-[🌐 Portfolio](https://nikunjranjan.vercel.app/) · [💼 LinkedIn](https://www.linkedin.com/in/nikunj-ranjan-668696177/) · [📧 Email](mailto\:nikunjranjan2204@gmail.com)
+🌐 [Portfolio](https://nikunjranjan.vercel.app/) · 💼 [LinkedIn](https://www.linkedin.com/in/nikunj-ranjan-668696177/) · 📧 [Email](mailto\:nikunjranjan2204@gmail.com)
 
 ---
 
-## 🚀 What I Work On
+## 🎮 What I Do
 
-- Gameplay programming and reusable systems in Unity
-- 2D and 3D game development using C#
-- Player controllers, parkour mechanics, vehicle physics and combat systems
-- Mobile game optimization, profiling and performance improvements
-- Game UI, progression systems, in-game economies and rewarded ads
-- Unity WebGL development and browser-based interactive experiences
+- Develop 2D and 3D games using Unity and C#.
+- Build gameplay mechanics and reusable systems.
+- Create player controllers, vehicle physics, combat and traversal mechanics.
+- Optimize games for mobile performance, memory usage and loading times.
+- Develop game UI, progression systems, economies and reward systems.
+- Build Unity WebGL and browser-based AR experiences.
 
-## 💻 Featured Projects
+## 🚀 Featured Projects
 
-### 1. Parkour System
+### Parkour System
 
-**Unity · C# · Animator · ScriptableObjects**
+**Unity · C# · Physics · Animator · ScriptableObjects**
 
-A modular 3D parkour system featuring raycast-based obstacle detection, configurable parkour actions, obstacle-height validation and animation-driven execution.
+A modular 3D parkour system featuring obstacle detection, configurable parkour actions, obstacle-height validation and animation-driven character movement.
 
-[View Repository](https://github.com/Frost2204/Parkour-System)
+[Repository](https://github.com/Frost2204/Parkour-System) · [Gameplay Video](https://youtu.be/ro-JPLQKGxo)
 
 
 
-[Watch Gameplay](https://youtu.be/ro-JPLQKGxo)
-
-### 2. Car Controller
+### Car Controller
 
 **Unity · C# · Wheel Colliders**
 
-A physics-based vehicle controller built with Unity Wheel Colliders.
+A physics-based vehicle controller built using Unity Wheel Colliders, focusing on vehicle movement and handling.
 
-[View Repository](https://github.com/Frost2204/Car-Controller)
+[Repository](https://github.com/Frost2204/Car-Controller)
 
 
 
-### 3. Shooting Game Mechanics
+### Shooting Game Mechanics
 
 **Unreal Engine · Blueprints**
 
 A shooting mechanics project featuring weapon selection, per-weapon statistics, ammunition types, fire rates, recoil and aiming.
 
-[View Repository](https://github.com/Frost2204/Shooting-Game-Mechanics)
+[Repository](https://github.com/Frost2204/Shooting-Game-Mechanics)
 
 
 
-## 🎮 Professional Experience
+### More Projects
+
+- **WordVenture** — Unity word puzzle game with themed levels, progression, in-game currencies and rewarded ads.
+- **Breaking Blocks** — Unity block-breaking game featuring custom shaders, particles and increasing difficulty.
+- **Mech Invasion** — Tower defense game project featuring additional weapons and varied environments.
+- **Aim Down** — Unity flashlight survival game featuring drones and turrets with distinct attack behaviors.
+
+## 💼 Professional Experience
 
 **Unity Game Developer — MyHashstash**
 
 - Built and published multiple casual Unity games on Google Play.
-- Reduced the initial loading time of a 3D bike configurator showroom by **45%** using Unity Addressables.
+- Reduced initial loading time of a 3D bike configurator showroom by **45%** using Unity Addressables.
 - Improved mobile performance using object pooling, draw call batching and memory optimization.
-- Developed responsive game interfaces, HUDs, reward systems and shop screens.
+- Developed responsive game interfaces, HUDs, shop screens and reward systems.
 - Shipped Unity WebGL builds optimized for browser performance.
 - Developed browser-based AR experiences using Three.js and 8th Wall WebXR.
+- Trained a custom YOLO model on 10+ categories with **92% accuracy**, optimized for real-time browser inference using TensorFlow\.js.
 
-## 🛠️ Technical Skills
+## 🛠️ Tech Stack
 
-**Game Engines:** Unity 2D/3D, Unreal Engine
+**Game Engines**
 
-**Languages:** C#, JavaScript, HTML, CSS
+\<p>
+&#x20; \<img src="[https://skillicons.dev/icons?i=unity,unreal](https://skillicons.dev/icons?i=unity,unreal)" />
+\</p>
 
-**Unity Development:** ScriptableObjects, Addressables, Animator, Physics, Wheel Colliders, Object Pooling, Unity Profiler, TextMeshPro, UGUI, Custom Shaders
+**Programming Languages**
 
-**Gameplay Systems:** Player Controllers, Vehicle Controllers, Parkour & Traversal, Shooting Mechanics, Level Progression, Game Economy
+\<p>
+&#x20; \<img src="[https://skillicons.dev/icons?i=cs,js,html,css](https://skillicons.dev/icons?i=cs,js,html,css)" />
+\</p>
 
-**Platforms:** Android, Unity WebGL, WebXR
+**Tools & Technologies**
 
-**Other Technologies:** Three.js, 8th Wall, Firebase, YOLO, TensorFlow\.js
+\<p>
+&#x20; \<img src="[https://skillicons.dev/icons?i=git,github,blender,firebase,androidstudio](https://skillicons.dev/icons?i=git,github,blender,firebase,androidstudio)" />
+\</p>
 
-**Tools:** Git, GitHub, Unity Version Control, Blender
+**Unity:** ScriptableObjects, Addressables, Animator, Physics, Wheel Colliders, Object Pooling, Unity Profiler, TextMeshPro, UGUI, Custom Shaders
+
+**Other Technologies:** Three.js, 8th Wall WebXR, YOLO, TensorFlow\.js
 
 ## 📊 GitHub Statistics
 
@@ -88,9 +102,8 @@ A shooting mechanics project featuring weapon selection, per-weapon statistics, 
 
 ---
 
-### 🤝 Let's Connect
+## 🤝 Let's Connect
 
-I'm interested in opportunities to build and contribute to games at studios developing their own titles.
+I'm interested in opportunities to work with game studios building and publishing their own games.
 
-[Portfolio](https://nikunjranjan.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/nikunj-ranjan-668696177/) · [GitHub](https://github.com/Frost2204)
-
+🌐 [Portfolio](https://nikunjranjan.vercel.app/) · 💼 [LinkedIn](https://www.linkedin.com/in/nikunj-ranjan-668696177/) · 💻 [GitHub](https://github.com/Frost2204)
